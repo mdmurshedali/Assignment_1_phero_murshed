@@ -45,6 +45,7 @@ body{
 }
 .Donate-amount{ 
     display: inline-flex;
+    margin: auto 10%;
 
 }
 .amount-bg{
